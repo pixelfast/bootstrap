@@ -11,9 +11,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
  </head>
  <body>
+ <div class="container">
 	<?php
 	echo "<h1>My Bootstrap Themes</h1>";
 	echo "<p>From W3Schools.com</p>"
 	?>
+</div>
+
 </body>
 </html>
